@@ -10,4 +10,4 @@ function somarmedia(numeroA, numeroB){
   console.log(" a soma da media é ")
 console.log( numeroA + numeroB)
 }
-somarmedia(numeroA,numeroB)
+somarmedia(numeroA,numeroB) 
