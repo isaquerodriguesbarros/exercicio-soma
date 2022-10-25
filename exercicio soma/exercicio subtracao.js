@@ -7,6 +7,6 @@ var numeroA = parseInt(prompt())
 var numeroB= parseInt(prompt())
 function subitrairmedia(numeroA, numeroB){
   console.log(" a subitraçao  da media é ")
-console.log( numeroA + numeroB)
+console.log( numeroA - numeroB)
 }
 subitrairmedia(numeroA,numeroB)  
